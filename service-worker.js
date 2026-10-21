@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ebva-r34-intelligence-test-v2';
+const CACHE_NAME = 'ebva-r35-intelligent-v1';
 const APP_SHELL = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', event => {
